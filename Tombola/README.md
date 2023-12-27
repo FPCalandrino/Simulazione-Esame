@@ -67,7 +67,7 @@ Il giocatore 2 ha fatto AMBO!
 
 ...
 
-> Numero uscito 71
+> Numero uscito: 71
 
 X O O X O X O X O                X O X 33 O O X X O
 X O X O X O X O O                8 10 X X O X O X O
